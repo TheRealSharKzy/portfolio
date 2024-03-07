@@ -8,14 +8,14 @@ J'ai commencé avec python au lycée (en seconde), puis pris par l'amour de l'in
 
 # Compétences
 
-|                              | Note | Justification |
-|------------------------------|------|---------------|
-| Réaliser des applications    |      |               |
-| Optimiser des applications   |      |               |
-| Administrer les applications |      |               |
-| Gérer des données            |      |               |
-| Conduire un développemen     |      |               |
-| Collaborer                   |      |               |
+|                              | Note  | Justification                                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Réaliser des applications    | ⭐⭐⭐⭐⭐ | En général tout ce qui touche à la programmation a toujours été mon point fort. De la première année quand j'ai appris Java à la 3ème année, j'ai toujours eu des bonnes notes aux DS. Et j'ai toujours été à l'aise en développement que ce soit web ou logiciel.  Exemples :   - 17 en programmation avancée 3ème année - 16 en initiation à la programmation 1ère année |
+| Optimiser des applications   | ⭐⭐⭐⭐  | J'ai toujours été plutôt bon en algorithmie, je pense que j'ai un peu plus de difficulté en mathématique en général. Néanmoins, je pense que le fait que j'ai fait la spécialité NSI à partir de la première, dans laquelle j'ai fais beaucoup de python, m'a déjà un peu formé à l'algorithmie. Inversement, même au lycée j'avais des difficultés en math.               |
+| Administrer les applications | ⭐⭐⭐   |                                                                                                                                                                                                                                                                                                                                                                            |
+| Gérer des données            | ⭐⭐⭐⭐⭐ |                                                                                                                                                                                                                                                                                                                                                                            |
+| Conduire un développemen     | ⭐⭐⭐⭐  |                                                                                                                                                                                                                                                                                                                                                                            |
+| Collaborer                   | ⭐⭐⭐⭐  |                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## Compétences détaillés
 
